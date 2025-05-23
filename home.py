@@ -15,7 +15,7 @@ st.markdown(
                 
     - 📃 [Document GPT](/document)
     - ❓ [Quiz GPT](/quiz)
-    -  [Meeting GPT](/meeting)
-    -  [Investor GPT](/investor)
+    -  [Video GPT](/video)
+    - 💼 [Investor GPT](/investor)
     """
 )
