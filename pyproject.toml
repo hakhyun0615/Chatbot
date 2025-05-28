@@ -26,7 +26,9 @@ dependencies = [
     "pydantic_core==2.18.2",
     "python-dotenv==1.0.1",
     "tiktoken==0.5.2",
-    "yfinance==0.2.40"
+    "yfinance==0.2.40",
+    "streamlit (>=1.45.1,<2.0.0)",
+    "duckduckgo-search (>=8.0.2,<9.0.0)"
 ]
 
 
